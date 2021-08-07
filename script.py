@@ -52,7 +52,7 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : MT Unlimited Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Vj Unlimited Filter Bot</b>
 
 ⭕️<b>Creater :</b> <b>@Achu_vjsvj</b>    
 
