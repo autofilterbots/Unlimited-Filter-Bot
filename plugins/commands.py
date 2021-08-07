@@ -220,12 +220,12 @@ async def start(client, message):
                    InlineKeyboardButton("𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙷𝚎𝚕𝚙", callback_data="help_data")
                 ],
                 [
-                   InlineKeyboardButton("🗣️𝙶𝚛𝚘𝚞𝚙", url="https://t.me/Mo_tech_group"),
-                   InlineKeyboardButton("🤖Bot List", url="https://t.me/Mo_Tech_YT/176"),
-                   InlineKeyboardButton("👨‍💻Source", url="https://youtu.be/KrpqqNNLUSU")
+                   InlineKeyboardButton("🗣️𝙶𝚛𝚘𝚞𝚙", url="https://t.me/CinemaCornerGroups"),
+                   InlineKeyboardButton("🔰Channel🔰", url="https://t.me/ottmovies_updates"),
+                   InlineKeyboardButton("👨‍💻Developed👨‍💻", url="https://t.me/Achu_vjsvj")
                 ],
                 [
-                   InlineKeyboardButton("🔻 Subscribe Now YouTube 🔻", url="https://youtu.be/KrpqqNNLUSU")
+                   InlineKeyboardButton("🔻 Subscribe Now YouTube 🔻", url="https://youtu.be/IszRcb3iY3s")
                 ]
             ]
         ),
@@ -251,7 +251,7 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🗣️𝙶𝚛𝚘𝚞𝚙", url="https://t.me/Mo_tech_group"),
+                    InlineKeyboardButton("🗣️𝙶𝚛𝚘𝚞𝚙", url="https://t.me/CinemaCornerGroups"),
                     InlineKeyboardButton("About Me👨‍💼", callback_data="about_data")
                 ],
                 [
